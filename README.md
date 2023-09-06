@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bettercallsundim&label=Profile%20views&color=0e75b6&style=flat" alt="bettercallsundim" /> </p>
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔭 I’m currently working on **MERN stack development**
 
 - 🌱 I’m currently learning **Express.js**
 
-- 👯 I’m looking to collaborate on **MERN applications**
+- 👯 I’m looking to collaborate on **MERN stack applications**
 
 - 👨‍💻 All of my projects are available at [http://sundim.vercel.app/](http://sundim.vercel.app/)
 
