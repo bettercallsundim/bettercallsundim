@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanjim</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">A full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bettercallsundim&label=Profile%20views&color=0e75b6&style=flat" alt="bettercallsundim" /> </p>
 
 - 🔭 I’m currently working on **MERN stack development**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **MERN stack applications**
 
