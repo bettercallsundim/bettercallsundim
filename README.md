@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [http://sundim.vercel.app/](http://sundim.vercel.app/)
 
 <p align="left">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=apollo,bootstrap,c,cpp,css,docker,express,firebase,git,github,graphql,html,linux,mongodb,mysql,nextjs,nodejs,prisma,py,react,redux,sass,tailwind,ts,vscode,wordpress" />
 
 </p>
 
