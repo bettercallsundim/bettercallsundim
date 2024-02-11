@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [http://sundim.vercel.app/](http://sundim.vercel.app/)
 
 <p align="left">
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
