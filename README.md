@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack :</h3>
 <p align="left">
       <img src="https://skillicons.dev/icons?i=cpp,py,ts,nodejs,tailwind,react,nextjs,express,graphql,firebase,mongodb,mysql,prisma,docker" />
 <!--       <img src="https://skillicons.dev/icons?i=apollo,bootstrap,c,cpp,css,docker,express,firebase,git,github,graphql,html,linux,mongodb,mysql,js,nextjs,nodejs,prisma,py,react,redux,sass,tailwind,ts,vscode,wordpress" /> -->
