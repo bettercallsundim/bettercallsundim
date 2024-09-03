@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjim</h1>
+<h1 align="center">Hi 👋, I'm Sunzim</h1>
 <h3 align="center">An evolving full-stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bettercallsundim&label=Profile%20views&color=0e75b6&style=flat" alt="bettercallsundim" /> </p>
