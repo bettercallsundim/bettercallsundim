@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack applications**
 
-- 👨‍💻 All of my projects are available at [http://sundim.vercel.app/](http://sundim.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sunzim.space/](https://sunzim.space/)
 
 
 
