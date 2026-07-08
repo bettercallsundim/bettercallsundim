@@ -17,20 +17,7 @@
 
 - 💼 **Full Stack Developer** at **Luminar Technology**, building [Autoworx](https://autoworx.tech) — an automotive business management platform serving multi-location shops across the US
 - 🌱 Currently deepening my **backend & systems design** skills
-- 🛠️ Recently shipped payment integrations (Stripe, Authorize.net), omnichannel messaging pipelines (Twilio, SendGrid, Mailgun, Infobip, Meta), and a recommendation engine (SVD/KNN + FastAPI + Redis)
-- 🏆 4x campus champion/runner-up in programming contests & IT quizzes at Prime University
-- 👯 Open to collaborating on **MERN/Next.js SaaS products**, payment systems, and recommendation engines
 - 📫 Reach me at **sunxiiim@gmail.com**
-
----
-
-### 🧩 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Autoworx](https://autoworx.tech)** | Automotive business management platform for multi-location US shops — scheduling, invoicing, payments, omnichannel comms | Next.js, TypeScript, Prisma, MySQL, Stripe, Twilio |
-| **[Bangla Reels](https://banglareels.com)** | Short-video streaming platform with a personalized recommendation microservice (SVD/KNN, cold-start handling, Redis caching) | NestJS, FastAPI, Python, Redis, Stripe, SSLCommerz |
-| **[Evoke Perfume Shop](https://beevoked.com)** | Backend + affiliate system with RBAC, multi-currency payouts, and Shopify webhook sync | Express.js, PostgreSQL, Prisma, Stripe, Wise |
 
 ---
 
@@ -39,13 +26,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,cpp,py,react,nextjs,tailwind,redux,nodejs,express,nestjs,graphql,mongodb,mysql,postgres,prisma,docker,aws,azure,git,github" />
 </p>
-
-**Languages:** TypeScript · C++ · Python
-**Frontend:** React.js, Next.js, TailwindCSS, shadcn/ui, Redux, Zustand, TanStack Query
-**Backend:** Node.js, Express.js, NestJS, GraphQL, Socket.io
-**Data:** PostgreSQL, MySQL, MongoDB, Prisma, Redis
-**Cloud/DevOps:** AWS (EC2, RDS, SES, SNS, Route 53), Azure, Git, CI/CD
-**Integrations:** Stripe, Authorize.net, SSLCommerz, Wise, Twilio, SendGrid, Mailgun, Infobip, Meta Business API, Shopify
 
 ---
 
