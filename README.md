@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bettercallsundim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://sunzim.space/"><img src="https://img.shields.io/badge/Portfolio-sunzim.space-0e75b6?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://sunzim.online/"><img src="https://img.shields.io/badge/Portfolio-sunzim.online-0e75b6?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="mailto:sunxiiim@gmail.com"><img src="https://img.shields.io/badge/Email-sunxiiim%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
